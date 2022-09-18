@@ -1,0 +1,39 @@
+body{
+    font : 16px/28px arial,sans-serif;
+    background-color:white;
+    color:black;
+}
+.container {
+    height: 100px;
+    width: 800px;
+    margin:auto;
+    background-color:pink;
+}
+.header{
+    padding: 20px ;
+}
+.hero{
+height: 50px;
+width: 800px;
+background-color:aqua ;
+}
+
+.content{
+    height:300px;
+    width:800px;
+    align:center;
+    background-color:gainsboro;
+}
+.header2{
+    height: 50px;
+    width:800px;
+    align:center;
+    background-color:aqua;
+}
+.footer{
+    height: 100px;
+    width:800px;
+    align:center;
+    margin:auto;
+    background-color:pink;
+}
